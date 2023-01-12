@@ -1,0 +1,1 @@
+d={'one':'pen',2:'pencil',3:'ruler',4:'erasor',5:'sharpner'}
